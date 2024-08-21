@@ -1,0 +1,3 @@
+# Event Emitter 
+WE use this to emit even after some action
+We are using event emmiter on delete method
